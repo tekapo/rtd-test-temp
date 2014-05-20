@@ -33,7 +33,7 @@ from datetime import datetime
 # ones.
 sys.path.insert(0, os.path.abspath('.'))
 # extensions = []
-extensions = ['sphinx.ext.autodoc', 'releases']
+extensions = ['sphinx.ext.autodoc']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
